@@ -7,3 +7,5 @@ hostname -I > ip
 git add .
 git commit -m 'new IP'
 git push
+
+rm ip
